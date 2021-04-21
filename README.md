@@ -1,3 +1,2 @@
 # python3
-python learning code 
-I am both learning and teaching Python programming
+I am both learning and teaching Python 3. programming
